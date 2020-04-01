@@ -2,7 +2,9 @@
 title: "RepData1"
 author: "Joe Pogson"
 date: "4/1/2020"
-output: html_document 
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ## Loading the data

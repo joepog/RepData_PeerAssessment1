@@ -7,7 +7,6 @@ output:
     keep_md: yes
 ---
 
-
 ## Loading the data
 
 Reading the data that has been downloaded to the working directory. 
