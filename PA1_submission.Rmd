@@ -2,8 +2,9 @@
 title: "RepData1"
 author: "Joe Pogson"
 date: "4/1/2020"
-output: html_document
+output: html_document 
 ---
+
 ## Loading the data
 
 Reading the data that has been downloaded to the working directory. 
